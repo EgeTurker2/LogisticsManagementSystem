@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\LogisticsManagementSystem1\LogisticsManagementSystem1\bin\Debug\LogisticsManagementSystem1.exe.config
+C:\Users\ASUS\source\repos\LogisticsManagementSystem1\LogisticsManagementSystem1\bin\Debug\LogisticsManagementSystem1.exe
+C:\Users\ASUS\source\repos\LogisticsManagementSystem1\LogisticsManagementSystem1\bin\Debug\LogisticsManagementSystem1.pdb
+C:\Users\ASUS\source\repos\LogisticsManagementSystem1\LogisticsManagementSystem1\obj\Debug\LogisticsManagementSystem1.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\LogisticsManagementSystem1\LogisticsManagementSystem1\obj\Debug\LogisticsManagementSystem1.trackingForm.resources
+C:\Users\ASUS\source\repos\LogisticsManagementSystem1\LogisticsManagementSystem1\obj\Debug\LogisticsManagementSystem1.LoginForm.resources
+C:\Users\ASUS\source\repos\LogisticsManagementSystem1\LogisticsManagementSystem1\obj\Debug\LogisticsManagementSystem1.Properties.Resources.resources
+C:\Users\ASUS\source\repos\LogisticsManagementSystem1\LogisticsManagementSystem1\obj\Debug\LogisticsManagementSystem1.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\LogisticsManagementSystem1\LogisticsManagementSystem1\obj\Debug\LogisticsManagementSystem1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\LogisticsManagementSystem1\LogisticsManagementSystem1\obj\Debug\LogisticsManagementSystem1.exe
+C:\Users\ASUS\source\repos\LogisticsManagementSystem1\LogisticsManagementSystem1\obj\Debug\LogisticsManagementSystem1.pdb
+C:\Users\ASUS\source\repos\LogisticsManagementSystem1\LogisticsManagementSystem1\obj\Debug\LogisticsManagementSystem1.AdminDashboard.resources
+C:\Users\ASUS\source\repos\LogisticsManagementSystem1\LogisticsManagementSystem1\obj\Debug\LogisticsManagementSystem1.StaffDashboard.resources
+C:\Users\ASUS\source\repos\LogisticsManagementSystem1\LogisticsManagementSystem1\obj\Debug\LogisticsManagementSystem1.CargoForm.resources
+C:\Users\ASUS\source\repos\LogisticsManagementSystem1\LogisticsManagementSystem1\obj\Debug\LogisticsManagementSystem1.ManageUsersForm.resources
+C:\Users\ASUS\source\repos\LogisticsManagementSystem1\LogisticsManagementSystem1\obj\Debug\LogisticsManagementSystem1.UpdateShipmentForm.resources
